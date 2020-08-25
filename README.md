@@ -1,0 +1,1 @@
+This repo houses python practice code from HackerRank 30 day challenge
